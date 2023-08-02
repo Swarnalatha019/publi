@@ -1,2 +1,2 @@
 # publi
-sample checkin
+sample repositary
